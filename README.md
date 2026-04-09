@@ -53,8 +53,8 @@ Backend & Full-Stack Development Enthusiast
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit-sd&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-sd&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit-codder&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-codder&layout=compact" height="165"/>
 </p>
 
 ---
